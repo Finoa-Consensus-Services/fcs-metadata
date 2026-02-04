@@ -1,0 +1,9 @@
+{
+  "pub_key": "BLS_VER_KEY~mS3bttovIX04as8Mn8obxasyZbQwPuZ8ob9VBiBOphuFhKFY38OdXOFYwlCLx2YbRuITrvHjFH_lS7NJVDbrJmKYgr6TBOi0m7uouM8pnz7c4KJj9_lHBzOkhuWvAA8kNYZaSl68flZkGTdkFz4mgBmQSY3r3NPBEq3Uy4TW_Knw",
+  "name": "FCS-espresso-sequencer-DA",
+  "description": "Stake and grow your assets using Finoa Consensus Services's institutional-grade infrastructure.",
+  "company_name": "Finoa Consensus Services",
+  "company_website": "https://www.finoa-fcs.io/",
+  "client_version": "20250228-patch3",
+  "icon": "https://github.com/Finoa-Consensus-Services/fcs-metadata/blob/main/logos/fcs-logo_72p.png"
+}
