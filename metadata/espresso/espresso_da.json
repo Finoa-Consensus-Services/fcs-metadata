@@ -5,5 +5,7 @@
   "company_name": "Finoa Consensus Services",
   "company_website": "https://www.finoa-fcs.io/",
   "client_version": "20250228-patch3",
-  "icon": "https://github.com/Finoa-Consensus-Services/fcs-metadata/blob/main/logos/fcs-logo_72p.png"
+  "icon": {
+    "24x24": { "@3x": "https://github.com/Finoa-Consensus-Services/fcs-metadata/blob/main/logos/fcs-logo_72p.png" }
+  }
 }
